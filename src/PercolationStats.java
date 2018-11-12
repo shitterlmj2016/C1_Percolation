@@ -25,6 +25,6 @@ public class PercolationStats {
 
     public static void main(String[] args)
     {
-        
+
     }// test client (described below)
 }
